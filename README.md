@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm Heitor</h1>
 <h3 align="center">I have over 10 years of experience in IT, planning and building projects that have made a positive difference in companies I am proud to have collaborated with.</h3>
 
 - 🔭 I’m currently working on [new information visualization model](https://github.com/heitormorak/ufg-geotecnica)
