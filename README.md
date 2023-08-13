@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **ways to design and estimate a project**
 
-- 📫 How to reach me **heitormorak@gmail.com**
+- 📫 You can email me at **heitormorak@gmail.com**. I'll try to respond as soon as possible! 
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/heitor-dev/](https://www.linkedin.com/in/heitor-dev/)
 
