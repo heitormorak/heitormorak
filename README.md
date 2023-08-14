@@ -9,7 +9,7 @@
 
 - 📫 You can email me at **heitormorak@gmail.com**. I'll try to respond as soon as possible! 
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/heitor-dev/](https://www.linkedin.com/in/heitor-dev/)
+- 📄 Know about my experiences [here](https://www.linkedin.com/in/heitor-dev/)
 
 - ⚡ Fun fact **I am also a musician.**
 
