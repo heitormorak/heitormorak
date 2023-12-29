@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [new information visualization model](https://github.com/heitormorak/ufg-geotecnica)
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Golang**
 
 - 💬 Ask me about **ways to design and estimate a project**
 
